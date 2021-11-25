@@ -96,7 +96,6 @@ body {
     margin: 1rem 0;
     padding: 3rem 1.75rem;
     border-radius: 0.5rem;
-    height: 280px;
     cursor: pointer;
     transform: scale(0.95);
 }
