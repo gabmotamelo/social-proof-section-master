@@ -15,13 +15,13 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88755473/143333675-8f31d1a3-0b7f-44cd-a302-a0bb6f4df228.png">
+  <img src="https://user-images.githubusercontent.com/88755473/143334331-2bb3524a-440a-4e06-ac7c-50041b47d2de.png">
   <img width="40%" src="https://user-images.githubusercontent.com/88755473/143333764-b719454c-d389-4d29-ad2c-e0c68f911dc5.png">
 </p>
 
 ### Links
 
-- Live Site URL: [article-preview-component-master URL](https://gabmotamelo.github.io/article-preview-component-master/)
+- Live Site URL: [social-proof-section-master URL](https://gabmotamelo.github.io/social-proof-section-master/)
 
 ## Author
 
